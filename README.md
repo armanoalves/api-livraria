@@ -34,6 +34,15 @@ Ao decorrer do curso serão passados alguns conhecimentos de métodos aplicados 
 
 - Fazer a conexão da API com o banco de dados, verificando se a mesma ocorreu com sucesso ou não.
 
+
+### Aula 04
+
+- A separar os arquivos em pacotes específicos, de acordo com um objetivo em comum, como models, controllers, routes;
+
+- A criar uma classe com métodos estáticos, para usar no arquivo de rotas, deixando o código mais intuitivo e descritivo sobre o que será executado para cada rota;
+
+- A utilizar alguns métodos fornecidos pela biblioteca mongoose para a manipulação dos dados no banco, como find, findById, findByIdAndUpdate e findByIdAndDelete.
+
 ## Como executar
 1. Clonar o repositório
 
